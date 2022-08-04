@@ -1,0 +1,2 @@
+# vipinvisuals
+My static website
